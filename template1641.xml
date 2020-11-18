@@ -1,13 +1,15 @@
 <xml version="1.0" encoding="UTF-8">
   <yml_catalog date="{date}">
     <products>
-      <offer id="7788476" available="false">
+      <offer id="7788476" available="true">
        <category>Кастрюли</category>
+       <price>777</price>
+        <price_old>888</price_old>
         <picture>https://cdn.the-village.ru/the-village.ru/post-cover/JSxikom0m3CPaZL9BokHeg-default.jpg</picture>
         <picture></picture>
         <vendor>Nike</vendor>
-        <name lang="ru">название на русском</name>
-        <name lang="ua">название на украинском</name>
+        <name lang="ru">апвапав</name>
+        <name lang="ua">вапавп</name>
         <description lang="ru">Описание на русском</description>
         <description lang="ua">Описание на украинском</description>
         <weight>555</weight>
@@ -23,7 +25,7 @@
         <category>Кастрюли</category>
         <picture>https://cdn.the-village.ru/the-village.ru/post-cover/JSxikom0m3CPaZL9BokHeg-default.jpg</picture>
         <picture>https://vogue.ua/cache/inline_990x/uploads/article-inline/31d/de2/873/5e4a873de231d.jpeg</picture>
-        <vendor>Nike</vendor>
+        <vendor>sdfdxf</vendor>
         <name lang="ru"></name>
         <name lang="ua">название на украинском</name>
         <description lang="ru">Описание на русском</description>
