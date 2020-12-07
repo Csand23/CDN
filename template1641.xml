@@ -1,7 +1,7 @@
 <xml version="1.0" encoding="UTF-8">
   <yml_catalog date="{date}">
     <products>
-      <offer id="7788476" available="true">
+      <offer id="7788476" available="false">
        <category>Кастрюли</category>
        <price>777</price>
         <price_old>888</price_old>
