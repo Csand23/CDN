@@ -1,10 +1,10 @@
-<xml version="1.0" encoding="UTF-8">
+<?xml version="1.0" encoding="UTF-8"?>
   <yml_catalog date="{date}">
-    <products>
-      <offer id="7788476" available="false">
-       <category>Кастрюли</category>
-       <price>777</price>
+    <offers>
+      <offer id="7788476" available="true">
+        <price>777</price>
         <price_old>888</price_old>
+        <category>Кастрюли</category>
         <picture>https://cdn.the-village.ru/the-village.ru/post-cover/JSxikom0m3CPaZL9BokHeg-default.jpg</picture>
         <picture></picture>
         <vendor>Nike</vendor>
@@ -19,7 +19,7 @@
         <barcode>482999304545;482999887762</barcode>
         <country_of_origin>Китай</country_of_origin>
       </offer>
-      <offer id="987543" available="false">
+      <offer id="987543" available="true">
         <price>555</price>
         <price_old>666</price_old>
         <category>Кастрюли</category>
@@ -37,6 +37,6 @@
         <barcode>482999304545;482999887762</barcode>
         <country_of_origin>Китай</country_of_origin>
       </offer>
-    </products>
+    </offers>
   </yml_catalog>
-</xml>
+
